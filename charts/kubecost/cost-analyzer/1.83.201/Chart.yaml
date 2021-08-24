@@ -7,9 +7,8 @@ annotations:
   catalog.cattle.io/release-name: kubecost
 apiVersion: v2
 appVersion: 1.83.2
-description:
-  A Helm chart that sets up Kubecost, Prometheus, and Grafana to monitor
+description: A Helm chart that sets up Kubecost, Prometheus, and Grafana to monitor
   cloud costs.
 icon: https://kubecost.com/images/logo-white.png
 name: cost-analyzer
-version: 1.83.2
+version: 1.83.201
